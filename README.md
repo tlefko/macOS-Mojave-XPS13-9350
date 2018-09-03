@@ -83,7 +83,9 @@
 - Credit Hackintosher.com for basic patches (although @syscl) covered some
 - Credit to @syscl (clearly...)
 - Credit to @Rehabman
-- Credit to everyone who made other Kexts, I, obviously did not.
+- Credit to @syscl Kexts, and his contributers. ex. Lidwake.kext (although not fully compatible)
+
+
 
 # Support
 
