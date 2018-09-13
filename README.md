@@ -10,9 +10,10 @@
 
 # Issues
 
-- Wake up via lid is hit or miss (sometimes needs key press)
+- Lidwake kext doesn't load and isn't 'flexible' in Mojave
 - SD Card slot
 - Restarts don't work (endless black screen while turning off but still on)
+- 
 
 # Usage Notes
 
