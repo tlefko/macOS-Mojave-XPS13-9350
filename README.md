@@ -68,6 +68,7 @@
 - Turn off PC, boot into clover. Don't select a drive and press F4 and Fn+F4 a few times, wait a few seconds, then boot back to the drive
 - Plug back in the USB, mount it's EFI, and run the modified Deploy Script on your Hard Drive EFI partition
 - After deploy is finished, there will be VoodooI2C error as I deleted it from Kexts, for me it breaks Trackpad and Keyboard.  For now will be using VoodooPS2.
+- Replace VoodooHDA from Clover Kexts folder (the other folder) with the one NOT in the zip
 
 # After Modded Deploy
 
