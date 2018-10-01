@@ -19,7 +19,7 @@
 
 - USB Devices eject upon sleep (USB Patches via Deploy were major issue)
 - Changing board number via Clover Config doesn't work always unless serial is changed (No idea..)
-- Audio is controlled via VoodooHDA however prefpane is not nessacary.
+- Audio is controlled via VoodooHDA however prefpane is not necessary.
 - Never tested USB C anything. Charging should be fine however I'm not sure about others, don't personally use it)
 
 
