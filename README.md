@@ -10,7 +10,7 @@
 
 # Issues
 
-- Lidwake kext doesn't load and isn't 'flexible' in Mojave
+- Fixed Lidwake Kext
 - SD Card slot
 - Restarts don't work (endless black screen while turning off but still on)
 - 
