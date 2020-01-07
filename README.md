@@ -1,4 +1,4 @@
-# macOS-Mojave-XPS13-9350
+# USE THE UPGRADED GUIDE FOR 10.13.6+ IN MY PROFILE
 
 - Hello, this is a simple guide to get OS X 10.14 working on any XPS 13 9350 model
 
