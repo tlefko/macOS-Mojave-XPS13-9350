@@ -1,4 +1,4 @@
-# USE UPDATED GUIDE FOR CATALINA (DIFFERENT REPOSITORY)
+# Deprecated
 - Hello, this is a simple guide to get OS X 10.14 working on any XPS 13 9350 model
 
 - This guide uses files from (@syscl) (albeit edited) and full credit to him for the Deploy.sh and DSDT patches. However, his Clover folder is unbootable with Mojave and thus has been redone.
