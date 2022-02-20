@@ -94,6 +94,8 @@
 # Support
 
 - Your welcome to open any issues on this thread, I personally have little DSDT knowledge so I will do my best to help!
+# Donations (Send me a Coffee)
+- https://www.paypal.com/donate/?business=LG87NZSPQGFMS&no_recurring=0&currency_code=CAD
 
 
 # Thanks for Reading!
